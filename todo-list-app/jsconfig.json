@@ -1,4 +1,9 @@
 {
+  
+  "include": [
+    "./src/**/*"
+  ],
+  
   "compilerOptions": {
     "target": "es5",
     "module": "esnext",
@@ -16,4 +21,5 @@
       "scripthost"
     ]
   }
+  
 }
